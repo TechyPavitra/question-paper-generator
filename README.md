@@ -6,6 +6,13 @@
 - `data/`: Store all CSVs for subjects.
 - `generator.py`: Main script with GUI using Tkinter.
 
+## Required Modules
+- customtkinter
+- csv
+- random
+- os
+- reportlab
+
 ## CSV Format
 Each row should look like:
 ```
